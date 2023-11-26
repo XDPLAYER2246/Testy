@@ -1,7 +1,7 @@
 ## VC Client
 
 [Japanese](/README_ja.md) [Korean](/README_ko.md)
-
+[persian](/README_fr)
 ## What's New!
 
 - v.1.5.3.17
